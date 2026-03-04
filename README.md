@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**FinAuditCoder/FinAuditCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Palesa
+Cybersecurity Intern | Finance & Internal Audit Background | Aspiring Security Analyst
+## Current Focus
+- Network Fundamentals
+- Defensive Security & Security Operations
+- Vulnerability Research
+- System & Web Security Basics
+## Hands-On Learning
+- TryHackMe cybersecurity labs
+- Documenting technical learning in structured notes
+- Building foundational knowledge in networking and operating systems
+## Background Strengths
+- Risk Assessment & Control Evaluation
+- Analytical Thinking
+- Structured Documentation
+- Finance & Operational Insight
+## Career Direction
+To grow into a Security Analyst role, combining technical cybersecurity skills with risk management expertise to help organisations detect, prevent, and respond to cyber threats.
