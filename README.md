@@ -1,4 +1,4 @@
-Hi, I'm Palesa
+# Hi, I'm Palesa
 Cybersecurity Intern | Finance & Internal Audit Background | Aspiring Security Analyst
 ## Current Focus
 - Network Fundamentals
